@@ -17,14 +17,6 @@ Selain itu, sistem ini juga dilengkapi dengan dashboard admin yang memungkinkan 
 
 ---
 
-## 🚀 Fitur Utama
-# Website Publik
-Home
-Program & Modules
-About Us 
-Location
-Events
-
 # Dashboard Admin
 Kelola Programs & Modules
 Kelola Teachers
