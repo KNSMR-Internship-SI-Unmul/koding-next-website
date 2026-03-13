@@ -16,11 +16,3 @@ Selain itu, sistem ini juga dilengkapi dengan dashboard admin yang memungkinkan 
 | Nova Nur Fauziah | 2309116043 | UI/UX Designer |
 
 ---
-
-# Dashboard Admin
-Kelola Programs & Modules
-Kelola Teachers
-Kelola Student Projects
-Kelola Events
-Sistem Login
-
